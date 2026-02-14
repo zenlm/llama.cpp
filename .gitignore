@@ -152,3 +152,11 @@ poetry.toml
 # Code Workspace
 *.code-workspace
 
+
+
+
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+GROK.md
+QWEN.md
