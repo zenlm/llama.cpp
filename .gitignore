@@ -139,3 +139,6 @@ poetry.toml
 # emscripten
 a.out.*
 CLAUDE.md
+AGENTS.md
+GEMINI.md
+QWEN.md
