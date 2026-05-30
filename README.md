@@ -67,7 +67,7 @@ Convert Zen models to GGUF:
 
 ```bash
 # Convert from HuggingFace
-python convert_hf_to_gguf.py zenlm/zen4-ultra --outfile zen4-ultra-F16.gguf
+python convert_hf_to_gguf.py zenlm/zen-5-max-gguf --outfile zen4-ultra-F16.gguf
 
 # Quantize
 ./build/bin/llama-quantize zen4-ultra-F16.gguf zen4-ultra-Q4_K_M.gguf Q4_K_M
@@ -85,8 +85,8 @@ python convert_hf_to_gguf.py zenlm/zen4-ultra --outfile zen4-ultra-F16.gguf
 
 ## Related
 
-- [zen4-ultra](https://github.com/zenlm/zen4-ultra) — Frontier-scale model
-- [zen4-coder-pro](https://github.com/zenlm/zen4-coder-pro) — Professional code generation
+- [zen4-ultra](https://github.com/zenlm/zen-5-max-gguf) — Frontier-scale model
+- [zen4-coder-pro](https://github.com/zenlm/zen-5-coder-gguf) — Professional code generation
 - [Zen LM](https://github.com/zenlm) — Full model family
 
 MIT · [Zen LM](https://zenlm.org) · [Hanzo AI](https://hanzo.ai)
