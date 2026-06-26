@@ -1,0 +1,7 @@
+Zen — llama.cpp integration
+Copyright (c) 2024-2026 Zen LM, Inc.
+
+This product is a fork of llama.cpp (https://github.com/ggml-org/llama.cpp),
+Copyright (c) 2023-2024 The ggml authors, licensed under the MIT License (see
+the accompanying LICENSE file). MIT permits commercial use, modification, and
+redistribution. All Zen LM modifications are likewise released under MIT.
