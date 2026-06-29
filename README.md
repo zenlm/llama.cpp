@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="llama.cpp" width="880"></p>
+
 # llama.cpp
 
 Optimized llama.cpp for Zen model inference. Supports GGUF quantization for all Zen models.
